@@ -1,4 +1,4 @@
-package task3;
+package inlamningsuppgift;
 
 import org.junit.jupiter.api.Test;
 

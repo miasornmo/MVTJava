@@ -1,4 +1,4 @@
-package task3;
+package inlamningsuppgift;
 
 public class TextAnalyzer {
 

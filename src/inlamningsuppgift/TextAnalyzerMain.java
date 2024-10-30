@@ -1,4 +1,4 @@
-package task3;
+package inlamningsuppgift;
 
 import java.util.Scanner;
 
@@ -24,6 +24,6 @@ public class TextAnalyzerMain {
         System.out.println("Antalet ord: " + textAnalyzer.getWordCount()); // Anropar metod för antalet ord och skriver ut resultatet
         System.out.println("Längsta ordet: " + textAnalyzer.getLongestWord()); // Anropar metod för det längsta ordet och skriver ut resultatet
 
-        scan.close();
+        scan.close(); // Stänger scannern
     }
 }
