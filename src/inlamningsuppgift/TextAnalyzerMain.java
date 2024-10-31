@@ -7,7 +7,7 @@ public class TextAnalyzerMain {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        TextAnalyzer textAnalyzer = new TextAnalyzer(); // Skapar ett objekt av klassen TextCounter
+        TextAnalyzer textAnalyzer = new TextAnalyzer(); // Skapar ett objekt av klassen TextAnalyzer
 
         System.out.println("Skriv in din text rad för rad. Skriv ordet 'stop' för att avsluta"); // Ber användaren att börja skriva in sin text
 
